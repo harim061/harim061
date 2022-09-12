@@ -29,7 +29,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harim061&layout=compact)](https://github.com/harim061/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harim061&show_icons=true&theme=vue)
 
-❤️🧡💛💚💙💜🤎🤍🖤
+🐸💧🍃🐢💤💙🍀🐳🌊🌏
  </div> 
  
 
