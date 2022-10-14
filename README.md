@@ -1,12 +1,26 @@
 ## 🐢 RUUUUUUUUN🐸🍀
 
 <div align=center>
+<br>
+║║╔║║╔╗ ║ <br>
+╠╣╠║║║║ ║ <br>
+║║╚╚╚╚╝ O
+<br>
+<br>
 
 🦸‍♀️ I'm Harim
 
-<br>
-📞 I'm Here 
+두다다다다다다다<br>
+    ^ ,,,, ^ <br>
+　(∩`・ω・)<br>
+＿/_ミつ/￣￣￣/<br>
+　　＼/＿＿＿/
 
+
+
+<br>
+
+📞
 <br>
  <a href="https://instagram.com/_060i">
     <img 
@@ -18,12 +32,13 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-<br>✏️ I'm studying
+<br>✏️
 <br>
     🖥 FE
+    
 <br>
 
-💭 I'm
+💭 
 
 
 
