@@ -27,7 +27,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a><a href="mailto:doris2019228@gmail.com">
     <img 
-        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:doris2019228@gmail.com"
+        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:doris5093@duksung.ac.kr"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
